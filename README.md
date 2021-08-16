@@ -12,7 +12,8 @@ Faculty will be able to download Excel files  of the attendance whenever they wa
 
 LOGIN PAGE:
 
-<img width="957" alt="SS2" src="https://user-images.githubusercontent.com/60502274/102619992-51826580-4163-11eb-8ec4-9d49be6ab1f5.PNG">
+![WhatsApp Image 2021-08-16 at 11 50 07](https://user-images.githubusercontent.com/73102680/129519776-a4e657c2-0d4f-424c-ba36-51b4d5d88081.jpeg)
+
 
 USERS PAGE DISPLAYING THE LIST OF STUDENTS IN CLASS:
 
